@@ -19,6 +19,9 @@ _GitLab_ will start as a container named **gitlab**
 To get inside th running container, run the following command:  
 `docker exec -it gitlab bash`  
 
-_GitLab_ will be available o **gitlab.sq.l**.  
+_GitLab_ will be available on **gitlab.sq.l**.  
 
 [_Portainer_](https://portainer.io/) containers dashboard, will be available on **192.168.0.5:9000**.  
+
+# _GitLab configuration
+
