@@ -7,7 +7,7 @@ _GitLab_ Community Edition 11.0.0 is installed on host at **192.168.0.5** under 
 _GitLab_'s configuration file **gitlab.rb** is available at the configuration folder.   
 2. Logs directory **/srv/gitlab/logs** on host, mounted to **/var/log/gitlab** inside the container.  
 3. Data directory **/srv/gitlab/data** on host, mounted to **/var/opt/gitlab** inside the container.  
-4. In order to sync host time and container time, we will do the following mounting:
+4. In order to sync host time and container time, we will do the following mounting:  
 `/usr/share/zoneinfo/Israel:/etc/localtime:ro`  
 
 
