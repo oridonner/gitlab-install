@@ -12,9 +12,8 @@ _GitLab_'s configuration file **gitlab.rb** is available at the configuration fo
 
 
 # Start _GitLab_
-To start _GitLab_, run the following command:  
+To start _GitLab_ as a container named **gitlab**, run the following command:  
 `docker-compose up`  
-_GitLab_ will start as a container named **gitlab**  
 
 To get inside _GitLab_'s running container, run the following command:  
 `docker exec -it gitlab bash`  
