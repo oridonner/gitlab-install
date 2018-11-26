@@ -11,7 +11,7 @@ _GitLab_'s configuration file **gitlab.rb** is available at the configuration fo
 `/usr/share/zoneinfo/Israel:/etc/localtime:ro`  
 
 
-# Start _GitLab
+# Start _GitLab_
 To start _GitLab_, run the following command:  
 `docker-compose up`  
 _GitLab_ will start as a container named **gitlab**  
