@@ -22,4 +22,13 @@ _GitLab_ will be available on **gitlab.sq.l**.
 [_Portainer_](https://portainer.io/) containers dashboard, will be available on **192.168.0.5:9000**.  
 
 # _GitLab_ configuration
+Configuration code, from official _GitLab_ [documentation](https://docs.gitlab.com/ee/administration/restart_gitlab.html).  
 
+To restart all _GitLab_ services:  
+`sudo gitlab-ctl restart`  
+
+To check the status of _GitLab_ services, run:  
+`sudo gitlab-ctl status`  
+
+Reconfigure Omnibus GitLab with:  
+`sudo gitlab-ctl reconfigure`  
