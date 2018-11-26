@@ -3,7 +3,10 @@ _GitLab_ Community Edition 11.0.0 is installed on host at **192.168.0.5** under 
 
 
 ### _GitLab_ volumes
+Configuration file **gitlab.rb** available on host at **/srv/gitlab/config/**  
 
+In order to sync host time and container time, we will do the following mounting:
+`/usr/share/zoneinfo/Israel:/etc/localtime:ro`  
 
 
 # Start _GitLab
