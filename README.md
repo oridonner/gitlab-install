@@ -1,5 +1,6 @@
 # _GitLab_ deployment
-_GitLab_ Community Edition 11.0.0 is installed on host at **192.168.0.5** under **gitlab_admin** user.  
+_GitLab_ Community Edition 11.0.0 is installed on host at **192.168.0.5** under **gitlab_admin** user.
+_GitLab_ docker installation is refered as [omnibus installation](https://docs.gitlab.com/omnibus/).  
 
 
 ### _GitLab_ volumes
