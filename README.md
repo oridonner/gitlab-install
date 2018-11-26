@@ -1,4 +1,4 @@
-# _GitLab Docker_ deployment
+# _GitLab_ deployment
 _GitLab_ Community Edition 11.0.0 is installed on host at **192.168.0.5** under **gitlab_admin** user.  
 
 
