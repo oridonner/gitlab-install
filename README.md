@@ -16,7 +16,7 @@ To start _GitLab_, run the following command:
 `docker-compose up`  
 _GitLab_ will start as a container named **gitlab**  
 
-To get inside th running container, run the folloeing command:
+To get inside th running container, run the following command:  
 `docker exec -it gitlab bash`  
 
 _GitLab_ will be available o **gitlab.sq.l**.  
