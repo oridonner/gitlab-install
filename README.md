@@ -23,5 +23,5 @@ _GitLab_ will be available on **gitlab.sq.l**.
 
 [_Portainer_](https://portainer.io/) containers dashboard, will be available on **192.168.0.5:9000**.  
 
-# _GitLab configuration
+# _GitLab_ configuration
 
