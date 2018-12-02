@@ -33,3 +33,4 @@ To check the status of _GitLab_ services, run:
 
 Reconfigure Omnibus GitLab with:  
 `sudo gitlab-ctl reconfigure`  
+
